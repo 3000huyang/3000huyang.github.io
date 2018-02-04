@@ -12,7 +12,8 @@ Free PTD 使用一个自适应版本的渐进三角网加密算法来进行滤�
 
 可以使用以下命令来处理一个las点云的滤波
 
-    FreePTD -i input_las.las -o output_las.las -d 1 -a 6 -m 60 -c -s
+    FreePTD -i input_las.las -o output_las.las -d 1 -a 6 -m 60 -c -s  
+
 其中 input_las.las为需要处理的las格式的点云文件；
 output_las.las 为处理后的结果文件；其他为参数；
 因采用命令行方式，可方便的使用批处理。
@@ -38,6 +39,7 @@ Free PTD 不会对点云数据进行外点去除，因为极低点外点会影�
 +  -m 最大建筑物大小，默认值60
 +  -c 分类标志，如果设置，那么Free PTD会尽量获得地面点。否则Free PTD只会找到一些关键的地形点，这通常地面点数量会比较少，建议开启，但会增加内存使用量
 +  -s 自适应标志，如果设置，那么Free PTD会采用自适应的算法来适应地形起伏，尤其是山区，建议开启
+
 ****
 
 如果在使用的过程中，发现有任何问题，可及时email <a href="mailto:371000913@qq.com">我</a>
