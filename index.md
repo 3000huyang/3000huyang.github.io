@@ -51,6 +51,6 @@ Free PTD 不会对点云数据进行外点去除，因为极低点外点会影�
 ## V 0.2       <2018-02-04>  
 增加自适应地形处理  
 增加角度a和距离d参数，增加分为标志参数c，增加自适应参数s
-### <a href="">download </a>
+### <a href="./FreePTD0.2.zip">download FreePTD0.2.zip </a>
 ## V 0.1  
 实现渐进三角网加密初始版本
