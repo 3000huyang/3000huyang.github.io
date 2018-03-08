@@ -48,10 +48,17 @@ Free PTD 不会对点云数据进行外点去除，因为极低点外点会影�
 
 # Release Notes
 ---
+
+## V 0.3       <2018-03-08>
+1. 提高地面点数量
+
+百度网盘 下载<a href="https://pan.baidu.com/s/1tC4HQoZysds8EsI_VvT9eg"> V0.3</a> 密码：eknf
+
 ## V 0.2       <2018-02-04>  
-增加自适应地形处理  
-增加角度a和距离d参数，增加分类标志参数c，增加自适应参数s
-### 方式1 <a href="./FreePTD0.2.zip"> FreePTD0.2.zip </a>
-### 方式2 百度网盘下载：https://pan.baidu.com/s/1ghjHFEj 密码：2dhz
+1. 增加自适应地形处理  
+2. 增加角度a和距离d参数，增加分类标志参数c，增加自适应参数s
+
+百度网盘下载：<a href="https://pan.baidu.com/s/1ghjHFEj">V0.2</a> 密码：2dhz
+
 ## V 0.1  
 实现渐进三角网加密初始版本
