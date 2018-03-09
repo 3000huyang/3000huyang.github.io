@@ -2,10 +2,8 @@
 
 ## 机载LIDAR点云滤波算法之-渐进三角网加密算法免费软件 Free PTD
 
-<video controls="controls" preload="auto">
-  <source id="mp4" src="https://openload.co/f/ZrsB5EN1LPg/show.mp4" type="video/mp4">
-  your browser does not support the video tag
-</video>
+
+<iframe src="https://openload.co/embed/ZrsB5EN1LPg/" scrolling="no" frameborder="0" width="700" height="430" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
 
 Free PTD 是一个免费的机载激光雷达（Lidar)滤波软件,你可以免费使用它，只要是非商业目的使用
 
@@ -25,7 +23,7 @@ output_las.las 为处理后的结果文件；其他为参数；
 Free PTD采用CPU并行方式来进行加速，这可能会引起计算机CPU满负荷工作。
 如果点云数量较大，可能需要更多的内存
 
-
+<iframe src="https://openload.co/embed/ZrsB5EN1LPg/" scrolling="no" frameborder="0" width="700" height="430" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
 
 
 >注意：
