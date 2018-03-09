@@ -25,8 +25,6 @@ output_las.las 为处理后的结果文件；其他为参数；
 Free PTD采用CPU并行方式来进行加速，这可能会引起计算机CPU满负荷工作。
 如果点云数量较大，可能需要更多的内存
 
-<iframe src="https://openload.co/embed/ZrsB5EN1LPg/" scrolling="no" frameborder="0" width="700" height="430" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
-
 
 >注意：
 Free PTD 不会对点云数据进行外点去除，因为极低点外点会影响滤波结果，所以请确定输入的点云
