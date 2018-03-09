@@ -3,7 +3,7 @@
 ## 机载LIDAR点云滤波算法之-渐进三角网加密算法免费软件 Free PTD
 
 <video controls="controls" preload="auto">
-  <source id="mp4" src="./show.mp4" type="video/mp4">
+  <source id="mp4" src="https://openload.co/f/ZrsB5EN1LPg/show.mp4" type="video/mp4">
   your browser does not support the video tag
 </video>
 
