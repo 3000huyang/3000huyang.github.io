@@ -2,9 +2,11 @@
 
 ## 机载LIDAR点云滤波算法之-渐进三角网加密算法免费软件 Free PTD
 
-<div>
-<img src="./result1.png" style="width= 100%; height=auto"></img>
-<video controls="controls" preload="auto" style="width= 100%; height=auto; object-fit: fill">
+<img src="./result1.png" style="width= 100%; height=auto">
+
+<div style = "width:100%;position:relative;padding-bottom:56.25%; ">
+
+<video controls="controls" preload="auto" style="position: absolute;top:0;  left: 0;width= 100%; height=100%">
   <source id="mp4" src="./show.mp4" type="video/mp4">
   your browser does not support the video tag
 </video>
