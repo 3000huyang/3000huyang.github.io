@@ -4,13 +4,11 @@
 
 <img src="./result1.png" style="width= 100%; height=auto">
 
-<div style = "width:100%;position:relative;padding-bottom:56.25%; ">
-
-<video controls="controls" preload="auto" style="position: absolute;top:0;  left: 0;width= 100%; height=100%">
+<video controls="controls" preload="auto" style="width= 100%; height=100% object-fit:fill">
   <source id="mp4" src="./show.mp4" type="video/mp4">
   your browser does not support the video tag
 </video>
-</div>
+
 
 Free PTD 是一个免费的机载激光雷达（Lidar)滤波软件,你可以免费使用它，只要是非商业目的使用
 
