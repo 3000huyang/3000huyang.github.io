@@ -4,11 +4,6 @@
 
 <img src="./result1.png" style="width= 100%; height=auto">
 
-<video controls="controls" preload="auto" style="width= 100%; height=100% object-fit:fill">
-  <source id="mp4" src="./show.mp4" type="video/mp4">
-  your browser does not support the video tag
-</video>
-
 
 Free PTD 是一个免费的机载激光雷达（Lidar)滤波软件,你可以免费使用它，只要是非商业目的使用
 
@@ -37,7 +32,7 @@ Free PTD 不会对点云数据进行外点去除，因为极低点外点会影�
 ****
 <a name="1"> 参数设置</a>
 
-+ -i 输入需要滤波的las文件，支持1.0-1.3
++ -i 输入需要滤波的las文件，支持1.0-1.2
 +  -o 输出滤波后的las，输入的las数据被分成两类，未分类和地面，参见isprs las格式中分类的类别值
 +  -d 点到三角形的距离阈值，默认值1.0  
 +  -a 点和三角形端点的连线与三角形所在平面最大角阈值，默认值6
@@ -47,7 +42,7 @@ Free PTD 不会对点云数据进行外点去除，因为极低点外点会影�
 
 ****
 
-如果在使用的过程中，发现有任何问题，可及时email <a href="mailto:371000913@qq.com">我</a>
+如果在使用的过程中，发现有任何问题，可及时 <a href="mailto:371000913@qq.com">email我</a>
 
 希望你在使用后，可以给我提供处理效果视频、图片，也可以提供原始的点云数据。这会帮助我提供对FreePTD更好的改进。
 
