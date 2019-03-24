@@ -7,7 +7,7 @@
 
 ### Free PTD 是一个免费的机载激光雷达（Lidar)滤波软件,你可以免费使用它，只要是非商业目的使用
 
-### V0.6 发布 <a href = "https://pan.baidu.com/s/1MLFfsr0QD-86nAiCq70fEQ "> 百度链接下载</a> 密码：mp9p 详见<a href="#2">V0.6 Release Notes</a>
+### V0.7 发布 <a href = "https://pan.baidu.com/s/1B3ixwjirvnDeWzftOQL4Ew "> 百度链接下载</a> 密码：nnxc 详见<a href="#2">V0.7 Release Notes</a>
 
 
 Free PTD 使用简单的命令行操作来提供处理的参数。使用方式可参见<a href="#1">参数设置></a>
@@ -45,11 +45,16 @@ Free PTD 不会对点云数据进行外点去除，因为极低点外点会影�
 + -e 减少角度最小边长；当一个三角形的最长边长小于该值，则减少对应的角度为参数g对应的角度。默认值2.0
 + -g 最小角度；当达到-e对应的参数条件，那么迭代角度取该值；默认值2.0
 + -u 最小边长；当三角形最长边长小于该值时，不再迭代；默认值0.2
-+ -t 最大迭代次数，默认值100
++ -t 最大迭代次数，默认值无限制
 
 
 # <a name="2"> Release Notes</a>
 ---
+
+## V 0.7 2019-03-24
+1. 修改部分bug
+2. 提高运算速度
+
 ## V 0.6 2018-12-12
 1. 参考TerraScan实现
 
