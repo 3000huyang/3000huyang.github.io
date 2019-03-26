@@ -1,31 +1,31 @@
 # InsightMapper-AT
 
-InsightMapper-AT ÊÇÒ»¿îÃâ·ÑµÄ¿ÕÈýÈí¼þ
-Èí¼þÊ¹ÓÃSIFTËã×ÓÎª×¨Àû³É¹û£¬²¢Î´ÊÚÈ¨£¬ÇëÎðÉÌÒµÊ¹ÓÃ£¬½ö¹©¿ÆÑÐÑ§Ï°Ö®ÓÃ 
-ÔÚÊ¹ÓÃ¹ý³ÌÖÐÓÐÈÎºÎÎÊÌâ¿ÉÒÔEmal ÎÒ£º<a href="mailto:371000913@qq.com">371000913@qq.com</a>
+InsightMapper-AT æ˜¯ä¸€æ¬¾å…è´¹çš„ç©ºä¸‰è½¯ä»¶
+è½¯ä»¶ä½¿ç”¨SIFTç®—å­ä¸ºä¸“åˆ©æˆæžœï¼Œå¹¶æœªæŽˆæƒï¼Œè¯·å‹¿å•†ä¸šä½¿ç”¨ï¼Œä»…ä¾›ç§‘ç ”å­¦ä¹ ä¹‹ç”¨ 
+åœ¨ä½¿ç”¨è¿‡ç¨‹ä¸­æœ‰ä»»ä½•é—®é¢˜å¯ä»¥Emal æˆ‘ï¼š<a href="mailto:371000913@qq.com">371000913@qq.com</a>
 
-ÃâÔðÉùÃ÷£º
-±¾Èí¼þ½öÎª¿ÆÑÐÑ§Ï°Ö®ÓÃ£¬²»¶ÔÆä²úÉúµÄÈÎºÎ½á¹û¸º·¨ÂÉÔðÈÎ
+å…è´£å£°æ˜Žï¼š
+æœ¬è½¯ä»¶ä»…ä¸ºç§‘ç ”å­¦ä¹ ä¹‹ç”¨ï¼Œä¸å¯¹å…¶äº§ç”Ÿçš„ä»»ä½•ç»“æžœè´Ÿæ³•å¾‹è´£ä»»
 
 ## download
 
-<a href = "https://pan.baidu.com/s/1IymW6ULHOD6pYpGaeLBDHQ "> °Ù¶ÈÁ´½ÓÏÂÔØ</a> ÃÜÂë£ºh5z9 
-## Ê¹ÓÃ²½Öè
+<a href = "https://pan.baidu.com/s/1IymW6ULHOD6pYpGaeLBDHQ "> ç™¾åº¦é“¾æŽ¥ä¸‹è½½</a> å¯†ç ï¼šh5z9 
+## ä½¿ç”¨æ­¥éª¤
 
-- 1 ÐÂ½¨¹¤³Ì£¬ÊäÈëÃû³ÆÄ¿Â¼µÈÐÅÏ¢
-- 2 µã»÷¡®Project setting¡¯
-    - 2.1 'add camera' Ôö¼ÓÏà»ú£¬ÉèÖÃÏà»ú²ÎÊý£¬ÆäÖÐwidth,height,ppx,ppy,focal(pix)Îª±ØÌî
-    - 2.2 'import images' Ìí¼ÓÍ¼Ïñ£¬Ìí¼ÓºóÑ¡ÔñÄ³¸öÏà»ú£¬»òÕßÐÂ½¨Ïà»ú£¬»òÕß´ÓexifÖÐ×Ô¶¯¶ÁÈ¡Ïà»ú
-            ¸Ã¹ý³Ì»á±È½ÏÂý£¬Èí¼þ»á³¢ÊÔ¶ÁÈ¡¾­Î³¶ÈµÈ×ø±êÐÅÏ¢
-   -  2.3'import pose'µ¼ÈëGPS/IMU poseÐÅÏ¢£¬Ö§³Ö¸ö×ª½ÇÎªomega£¬phi£¬kappa£¬»¡¶È£¬Èç¹ûÊÇÆäËû¸ñÊ½£¬¿ÉÒÔÍ¨¹ý3.1²Ù×÷Éú³É¸Ã¸ñÊ½
-- 3 pose ×ª»»
-   -  3.1 'Process'->'Convert pose' µ¼ÈëposeÊý¾Ý£¬Í¨¹ýpreview¸¨Öú¹Û²ì²ÎÊýÊÇ·ñÕýÈ·£¬Èç¹ûÕýÈ·£¬µã»÷¡®save¡¯µ¼³ö
-- 4 ¿ÕÈý
-  - µã»÷ ¡®Align images¡¯½øÐÐ¿ÕÈý
-  - µã»÷ ¡®post Adjustment¡¯½øÐÐ¾ø¶Ô¶¨Ïî£¬¿ØÖÆµãÆ½²î£¬×¢ÒâÒªÏÈ½øÐÐ¾ø¶Ô¶¨ÏòÈ»ºó½øÐÐÆ½²î
- - ÆäËû¹¦ÄÜ
+- 1 æ–°å»ºå·¥ç¨‹ï¼Œè¾“å…¥åç§°ç›®å½•ç­‰ä¿¡æ¯
+- 2 ç‚¹å‡»â€˜Project settingâ€™
+    - 2.1 'add camera' å¢žåŠ ç›¸æœºï¼Œè®¾ç½®ç›¸æœºå‚æ•°ï¼Œå…¶ä¸­width,height,ppx,ppy,focal(pix)ä¸ºå¿…å¡«
+    - 2.2 'import images' æ·»åŠ å›¾åƒï¼Œæ·»åŠ åŽé€‰æ‹©æŸä¸ªç›¸æœºï¼Œæˆ–è€…æ–°å»ºç›¸æœºï¼Œæˆ–è€…ä»Žexifä¸­è‡ªåŠ¨è¯»å–ç›¸æœº
+            è¯¥è¿‡ç¨‹ä¼šæ¯”è¾ƒæ…¢ï¼Œè½¯ä»¶ä¼šå°è¯•è¯»å–ç»çº¬åº¦ç­‰åæ ‡ä¿¡æ¯
+   -  2.3'import pose'å¯¼å…¥GPS/IMU poseä¿¡æ¯ï¼Œæ”¯æŒä¸ªè½¬è§’ä¸ºomegaï¼Œphiï¼Œkappaï¼Œå¼§åº¦ï¼Œå¦‚æžœæ˜¯å…¶ä»–æ ¼å¼ï¼Œå¯ä»¥é€šè¿‡3.1æ“ä½œç”Ÿæˆè¯¥æ ¼å¼
+- 3 pose è½¬æ¢
+   -  3.1 'Process'->'Convert pose' å¯¼å…¥poseæ•°æ®ï¼Œé€šè¿‡previewè¾…åŠ©è§‚å¯Ÿå‚æ•°æ˜¯å¦æ­£ç¡®ï¼Œå¦‚æžœæ­£ç¡®ï¼Œç‚¹å‡»â€˜saveâ€™å¯¼å‡º
+- 4 ç©ºä¸‰
+  - ç‚¹å‡» â€˜Align imagesâ€™è¿›è¡Œç©ºä¸‰
+  - ç‚¹å‡» â€˜post Adjustmentâ€™è¿›è¡Œç»å¯¹å®šé¡¹ï¼ŒæŽ§åˆ¶ç‚¹å¹³å·®ï¼Œæ³¨æ„è¦å…ˆè¿›è¡Œç»å¯¹å®šå‘ç„¶åŽè¿›è¡Œå¹³å·®
+ - å…¶ä»–åŠŸèƒ½
 
 
 # version
 
-- 1.1 Ä¿Ç°Îª1000ÕÅ²âÊÔ°æ±¾£¬ÎÈ¶¨Ö®ºóÔÙÌá¹©¸ü¶à
+- 1.1 ç›®å‰ä¸º1000å¼ æµ‹è¯•ç‰ˆæœ¬ï¼Œç¨³å®šä¹‹åŽå†æä¾›æ›´å¤š
