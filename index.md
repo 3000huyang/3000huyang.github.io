@@ -1,7 +1,7 @@
 # Free Software of Photogrametry (FSP)
 
 
-# <a href="./freePtd.md">FreePTD</a>
+# <a href="./freePtd.html">FreePTD</a>
 
 Free PTD 是一个免费的机载激光雷达（Lidar)滤波软件，支持海量数据的快速处理，支持自动分块处理。其实现方式参考TerraScan和IPTD算法
 
@@ -9,7 +9,7 @@ Free PTD 是一个免费的机载激光雷达（Lidar)滤波软件，支持海�
 
 Zhao X , Guo Q , Su Y , et al. Improved progressive TIN densification filtering algorithm for airborne LiDAR data in forested areas[J]. ISPRS Journal of Photogrammetry and Remote Sensing, 2016, 117:79-91.
 
-# <a href="./insightMapper-AT.md">InsightMapper-AT</a>
+# <a href="./insightMapper-AT.html">InsightMapper-AT</a>
 
 InsightMapper-AT是一款免费的空三软件
 
