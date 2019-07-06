@@ -7,9 +7,10 @@ InsightMapper-AT 是一款免费的空三软件
 免责声明：
 本软件仅为科研学习之用，不对其产生的任何结果负法律责任
 
-## download
+## Download
 
-<a href = "https://pan.baidu.com/s/1IymW6ULHOD6pYpGaeLBDHQ "> 百度链接下载</a> 密码：h5z9 
+<a href = "https://pan.baidu.com/s/1bdRB_ye332xgI_osG7C2QQ "> 百度链接下载</a> 密码：sxvh 
+
 ## 使用步骤
 
 - 1 新建工程，输入名称目录等信息
@@ -28,4 +29,6 @@ InsightMapper-AT 是一款免费的空三软件
 
 # version
 
+- 1.1.0706支持导出ContextCapture格式，由于坐标系重新开发，暂时只支持自由网空三
+  - 
 - 1.1 目前为1000张测试版本，稳定之后再提供更多

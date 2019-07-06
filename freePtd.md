@@ -7,7 +7,7 @@
 
 ### Free PTD 是一个免费的机载激光雷达（Lidar)滤波软件,你可以免费使用它，只要是非商业目的使用
 
-### V0.7 发布 <a href = "https://pan.baidu.com/s/1B3ixwjirvnDeWzftOQL4Ew "> 百度链接下载</a> 密码：nnxc 详见<a href="#2">V0.7 Release Notes</a>
+### V0.7 发布 <a href = "https://pan.baidu.com/s/11ZWMmB_GJ0EcHefnFXuSTQ "> 百度链接下载</a> 密码：vnpn 详见<a href="#2">V0.7 Release Notes</a>
 
 
 Free PTD 使用简单的命令行操作来提供处理的参数。使用方式可参见<a href="#1">参数设置></a>
