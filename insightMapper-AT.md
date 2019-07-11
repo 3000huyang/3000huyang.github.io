@@ -1,15 +1,17 @@
 # InsightMapper-AT
 
 InsightMapper-AT 是一款免费的空三软件
-软件使用SIFT算子为专利成果，并未授权，请勿商业使用，仅供科研学习之用 
-在使用过程中有任何问题可以Emal 我：<a href="mailto:371000913@qq.com">371000913@qq.com</a>
+
 
 免责声明：
 本软件仅为科研学习之用，不对其产生的任何结果负法律责任
 
 ## Download
 
-<a href = "https://pan.baidu.com/s/1bdRB_ye332xgI_osG7C2QQ "> 百度链接下载</a> 密码：sxvh 
+## V 1.1.0711
+
+链接：https://pan.baidu.com/s/113o2ETsLOcuO8lQDyRCOgg 
+提取码：z34i 
 
 ## 使用步骤
 
@@ -29,6 +31,7 @@ InsightMapper-AT 是一款免费的空三软件
 
 # version
 
-- 1.1.0706支持导出ContextCapture格式，由于坐标系重新开发，暂时只支持自由网空三
+- 1.1.0711 增加坐标系支持 
+- 1.1.0706 支持导出ContextCapture格式，由于坐标系重新开发，暂时只支持自由网空三
   - 
 - 1.1 目前为1000张测试版本，稳定之后再提供更多
